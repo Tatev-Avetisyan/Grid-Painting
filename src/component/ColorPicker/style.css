@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.color-container{
+    background-color: rgb(215, 232, 226);
+    position: absolute;
+    width: 210px;
+    height: 9vh;
+    border: solid 2px rgb(116, 107, 107);
+    display: flex;
+    flex-wrap: wrap;
+    left: 50%;
+    top: 90%;
+    transform: translate(-50%, -50%);
+
+
+}
+.color-desk{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    border: solid 1px rgb(152, 144, 144);
+    
+    
+
+}
